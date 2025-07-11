@@ -1,1 +1,1 @@
-I like new ideas :D
+Let's discuss ideas 
