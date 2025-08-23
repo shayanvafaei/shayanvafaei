@@ -1,1 +1,2 @@
-Let's discuss ideas 
+I'm a machine-learning engineer at Iran Khazan Co. 
+
