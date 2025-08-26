@@ -1,2 +1,2 @@
-Keep it simple. :D
+Keep it simple! :D
 
