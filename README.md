@@ -1,1 +1,1 @@
-<img src="https://github.com/shayanvafaei/shayanvafaei/blob/main/Minion.gif" alt="" width="" height="" style="float: right;">
+<img src="https://github.com/shayanvafaei/shayanvafaei/blob/main/Minion.gif" alt="" width="" height="">
